@@ -1,0 +1,32 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "toktik_210661",
+            "cwd": "toktik_210661",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "toktik_210661 (profile mode)",
+            "cwd": "toktik_210661",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "toktik_210661 (release mode)",
+            "cwd": "toktik_210661",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "toktik_210661 (Flutter Tests)",
+            "program": "test",
+            "cwd": "toktik_210661",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
